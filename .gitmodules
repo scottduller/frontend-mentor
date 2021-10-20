@@ -1,3 +1,15 @@
 [submodule "0-newbie"]
 	path = 0-newbie
 	url = https://github.com/scottduller/0-newbie.git
+[submodule "1-junior"]
+	path = 1-junior
+	url = https://github.com/scottduller/1-junior.git
+[submodule "2-intermediate"]
+	path = 2-intermediate
+	url = https://github.com/scottduller/2-intermediate.git
+[submodule "3-advanced"]
+	path = 3-advanced
+	url = https://github.com/scottduller/3-advanced.git
+[submodule "4-guru"]
+	path = 4-guru
+	url = https://github.com/scottduller/4-guru.git
