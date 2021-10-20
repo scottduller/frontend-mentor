@@ -1,0 +1,3 @@
+[submodule "0-newbie"]
+	path = 0-newbie
+	url = https://github.com/scottduller/0-newbie.git
